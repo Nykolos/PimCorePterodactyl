@@ -27,4 +27,4 @@ If you need help with this Egg feel free to join my Discord Server: https://disc
 
 ## License
 
-This Project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This Project is licensed under the MIT License - see the [LICENCE.md](LICENCE.md) file for details
